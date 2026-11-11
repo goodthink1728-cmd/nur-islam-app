@@ -1,0 +1,35 @@
+{
+  "book": "Shahih Bukhari",
+  "author": "Imam al-Bukhari (194–256 H)",
+  "totalHadith": 7275,
+  "hadiths": [
+    {
+      "number": 1,
+      "arab": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+      "indo": "Sesungguhnya setiap amal perbuatan tergantung pada niatnya, dan sesungguhnya setiap orang (akan dibalas) berdasarkan apa yang dia niatkan.",
+      "narrator": "Umar bin Khaththab radhiyallahu 'anhu",
+      "topic": "Niat & Ikhlas"
+    },
+    {
+      "number": 2,
+      "arab": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+      "indo": "Seorang muslim sejati adalah orang yang muslim lainnya selamat dari gangguan lisan dan tangannya.",
+      "narrator": "Abdullah bin Amr radhiyallahu 'anhu",
+      "topic": "Akhlak Sesama Muslim"
+    },
+    {
+      "number": 13,
+      "arab": "لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
+      "indo": "Tidak beriman salah seorang di antara kalian sampai dia mencintai saudaranya sebagaimana dia mencintai dirinya sendiri.",
+      "narrator": "Anas bin Malik radhiyallahu 'anhu",
+      "topic": "Kesempurnaan Iman & Cinta Saudara"
+    },
+    {
+      "number": 6018,
+      "arab": "خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ",
+      "indo": "Sebaik-baik kalian adalah orang yang mempelajari Al-Qur'an dan mengajarkannya.",
+      "narrator": "Utsman bin Affan radhiyallahu 'anhu",
+      "topic": "Keutamaan Al-Qur'an"
+    }
+  ]
+}

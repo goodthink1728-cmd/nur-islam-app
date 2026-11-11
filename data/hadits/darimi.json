@@ -1,0 +1,14 @@
+{
+  "book": "Sunan ad-Darimi",
+  "author": "Imam ad-Darimi (181–255 H)",
+  "totalHadith": 3500,
+  "hadiths": [
+    {
+      "number": 337,
+      "arab": "اقْرَءُوا الْقُرْآنَ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ شَفِيعًا لأَصْحَابِهِ",
+      "indo": "Bacalah Al-Qur'an, karena sesungguhnya ia akan datang pada hari kiamat sebagai pemberi syafa'at bagi para pembacanya.",
+      "narrator": "Abu Umamah Al-Bahili radhiyallahu 'anhu",
+      "topic": "Syafa'at Al-Qur'an"
+    }
+  ]
+}

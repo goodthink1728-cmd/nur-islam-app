@@ -1,0 +1,28 @@
+{
+  "book": "Shahih Muslim",
+  "author": "Imam Muslim (206–261 H)",
+  "totalHadith": 7500,
+  "hadiths": [
+    {
+      "number": 8,
+      "arab": "الإِيمَانُ أَنْ تُؤْمِنَ بِاللَّهِ، وَمَلاَئِكَتِهِ، وَكُتُبِهِ، وَرُسُلِهِ، وَالْيَوْمِ الآخِرِ، وَتُؤْمِنَ بِالْقَدَرِ خَيْرِهِ وَشَرِّهِ",
+      "indo": "Iman adalah engkau beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, hari akhir, dan engkau beriman kepada takdir yang baik maupun yang buruk.",
+      "narrator": "Umar bin Khaththab radhiyallahu 'anhu (Hadits Jibril)",
+      "topic": "Rukun Iman"
+    },
+    {
+      "number": 223,
+      "arab": "الطُّهُورُ شَطْرُ الإِيمَانِ، وَالْحَمْدُ لِلَّهِ تَمْلأُ الْمِيزَانَ",
+      "indo": "Bersuci itu sebagian dari iman, dan ucapan Alhamdulillah memenuhi timbangan amal.",
+      "narrator": "Abu Malik Al-Asy'ari radhiyallahu 'anhu",
+      "topic": "Keutamaan Thaharah & Dzikir"
+    },
+    {
+      "number": 2699,
+      "arab": "مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ",
+      "indo": "Barangsiapa menempuh suatu jalan untuk mencari ilmu, maka Allah akan memudahkan baginya jalan menuju surga.",
+      "narrator": "Abu Hurairah radhiyallahu 'anhu",
+      "topic": "Menuntut Ilmu"
+    }
+  ]
+}

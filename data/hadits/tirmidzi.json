@@ -1,0 +1,21 @@
+{
+  "book": "Sunan at-Tirmidzi",
+  "author": "Imam at-Tirmidzi (209–279 H)",
+  "totalHadith": 3956,
+  "hadiths": [
+    {
+      "number": 1987,
+      "arab": "الْبِرُّ حُسْنُ الْخُلُقِ، وَالإِثْمُ مَا حَاكَ فِي نَفْسِكَ وَكَرِهْتَ أَنْ يَطَّلِعَ عَلَيْهِ النَّاسُ",
+      "indo": "Kebaikan itu adalah akhlak yang mulia, dan dosa itu adalah apa yang meragukan jiwamu serta engkau benci bila diketahui orang lain.",
+      "narrator": "An-Nawwas bin Sam'an radhiyallahu 'anhu",
+      "topic": "Definisi Kebaikan & Dosa"
+    },
+    {
+      "number": 2317,
+      "arab": "مِنْ حُسْنِ إِسْلاَمِ الْمَرْءِ تَرْكُهُ مَا لاَ يَعْنِيهِ",
+      "indo": "Di antara tanda kebaikan Islam seseorang adalah dia meninggalkan apa yang tidak bermanfaat baginya.",
+      "narrator": "Abu Hurairah radhiyallahu 'anhu",
+      "topic": "Wara' & Menjaga Waktu"
+    }
+  ]
+}

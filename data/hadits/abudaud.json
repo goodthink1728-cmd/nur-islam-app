@@ -1,0 +1,21 @@
+{
+  "book": "Sunan Abu Dawud",
+  "author": "Imam Abu Dawud (202–275 H)",
+  "totalHadith": 5274,
+  "hadiths": [
+    {
+      "number": 1,
+      "arab": "إِذَا أَرَادَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْحَاجَةَ انْطَلَقَ حَتَّى لَا يَرَاهُ أَحَدٌ",
+      "indo": "Apabila Nabi shallallahu 'alaihi wasallam hendak buang hajat, beliau pergi jauh hingga tidak ada seorang pun yang melihatnya.",
+      "narrator": "Jabir bin Abdullah radhiyallahu 'anhu",
+      "topic": "Adab Thaharah"
+    },
+    {
+      "number": 4941,
+      "arab": "مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ حَقَّ كَبِيرِنَا فَلَيْسَ مِنَّا",
+      "indo": "Bukan dari golongan kami orang yang tidak menyayangi yang lebih muda di antara kami dan tidak mengetahui hak orang yang lebih tua.",
+      "narrator": "Abdullah bin Amr radhiyallahu 'anhu",
+      "topic": "Kasih Sayang & Adab Usia"
+    }
+  ]
+}
